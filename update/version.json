@@ -1,8 +1,8 @@
 {
-  "versionCode": 49,
-  "versionName": "3.9.6",
-  "sha256": "bd6e56d7ab5dc986f53b8f75c436a6acca35377a77d02ba4e376d50a7e9aa024",
+  "versionCode": 50,
+  "versionName": "3.9.7",
+  "sha256": "249da505939cf9ac4fe632d95fb72c0445bf3b75a4ac7116b7b7965a5d1694a4",
   "size": 1860409,
-  "notes": "First over the air update. If you're reading this on the head unit, wireless updates work and the USB stick can retire.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/254fa4a2004ca68fdf0ed2ef4b8e44c591564b0b/update/Slate.apk"
+  "notes": "The update sheet's button and status now show their text right away instead of appearing blank for a moment.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/e63e9da467002ba3dbd5be523d2143aaaae376b8/update/Slate.apk"
 }
