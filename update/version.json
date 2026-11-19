@@ -1,8 +1,8 @@
 {
-  "versionCode": 57,
-  "versionName": "3.9.14",
-  "sha256": "8b5ed50a4c4250ae53e93ceb8a9eeefc086b076000fbaf81b7eba63be6c3dcb0",
-  "size": 2012115,
-  "notes": "A couple of small surprises for people who know where to look.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/a26ce3a40ca80e127ef6e41659b15402ccc419ca/update/Slate.apk"
+  "versionCode": 56,
+  "versionName": "3.9.13",
+  "sha256": "19cf05faa7e35186c185c1b723869c3e365bb86bf312717eed11327bff1b38d9",
+  "size": 1876880,
+  "notes": "The home screen's truck readings get the same loading treatment as the gauges page: a gliding bar in each spot until its reading arrives, then the number fades in.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/975cd57d00d25229b522f10ca15ddeff828b4fd5/update/Slate.apk"
 }
