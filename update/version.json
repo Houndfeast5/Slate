@@ -1,8 +1,8 @@
 {
-  "versionCode": 55,
-  "versionName": "3.9.12",
-  "sha256": "2a02616152d06bbc771c70386e7dc67a2f3323fc23754161937f090845361ba5",
+  "versionCode": 56,
+  "versionName": "3.9.13",
+  "sha256": "19cf05faa7e35186c185c1b723869c3e365bb86bf312717eed11327bff1b38d9",
   "size": 1876880,
-  "notes": "The Auto button shows the Android Auto logo. You can still use your own picture by putting it at Slate/Icons/auto.png on a USB stick.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/9cbdcf86efd5dc14060b603bf0c3e1395b8ab971/update/Slate.apk"
+  "notes": "The home screen's truck readings get the same loading treatment as the gauges page: a gliding bar in each spot until its reading arrives, then the number fades in.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/975cd57d00d25229b522f10ca15ddeff828b4fd5/update/Slate.apk"
 }
