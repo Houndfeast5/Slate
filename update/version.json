@@ -1,8 +1,8 @@
 {
-  "versionCode": 50,
-  "versionName": "3.9.7",
-  "sha256": "249da505939cf9ac4fe632d95fb72c0445bf3b75a4ac7116b7b7965a5d1694a4",
+  "versionCode": 51,
+  "versionName": "3.9.8",
+  "sha256": "2a0d30a18d5b7677a9da1bc25c4d1c06f7c4b60953cdd9509efb8163aca7c393",
   "size": 1860409,
-  "notes": "The update sheet's button and status now show their text right away instead of appearing blank for a moment.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/e63e9da467002ba3dbd5be523d2143aaaae376b8/update/Slate.apk"
+  "notes": "Check Now finds a new version the moment it's published, no more waiting on GitHub's cache.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/d1ab2a6319339b796cdefa8f06607768c2d439f6/update/Slate.apk"
 }
