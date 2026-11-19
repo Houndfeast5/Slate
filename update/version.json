@@ -1,7 +1,8 @@
 {
   "versionCode": 46,
   "versionName": "3.9.3",
-  "sha256": "a5e088c54ec0e0ff47848394552f83d1784b4fea1c822e0fa10c94bfab83fe73",
+  "sha256": "fe3015fa4d6cb8e32a88f1012b03e63c5fac5aed7a140f9542962e0409d7cf1d",
   "size": 1860409,
-  "notes": "Slate now checks for updates every 5 minutes and the moment your hotspot connects, so new versions show up almost right away."
+  "notes": "Slate now checks for updates every 5 minutes and the moment your hotspot connects, so new versions show up almost right away.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/bb238da4fc1a67f59924474e2bdfc6d8ddaf2c64/update/Slate.apk"
 }
