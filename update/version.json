@@ -1,8 +1,8 @@
 {
-  "versionCode": 48,
-  "versionName": "3.9.5",
-  "sha256": "871ceba13fd7d6ceb4bfb2be2f5c4227485bd0f482c139e4e3eb1bcfea2b3251",
+  "versionCode": 49,
+  "versionName": "3.9.6",
+  "sha256": "bd6e56d7ab5dc986f53b8f75c436a6acca35377a77d02ba4e376d50a7e9aa024",
   "size": 1860409,
-  "notes": "Update checks no longer trust Android's connection status, which was wrongly saying offline. Slate also checks for an update every time you start the truck.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/213d6bcc6deb2411c4557ad84b32d38cd89cff63/update/Slate.apk"
+  "notes": "First over the air update. If you're reading this on the head unit, wireless updates work and the USB stick can retire.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/254fa4a2004ca68fdf0ed2ef4b8e44c591564b0b/update/Slate.apk"
 }
