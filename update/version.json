@@ -1,8 +1,8 @@
 {
-  "versionCode": 58,
-  "versionName": "3.9.15",
-  "sha256": "9a2b1d528cb8e07405a9c4b765c92648f7e6689f36a015a598cbd40f12a8b1b6",
+  "versionCode": 59,
+  "versionName": "3.9.16",
+  "sha256": "4e13711ea1bf01a6979a19c23c88ea4b237c68e10882cc5936d3b9f8398486d2",
   "size": 1876880,
-  "notes": "The RPM number shrinks slightly to fit next to both gears instead of getting cut off.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/ec0760a266b9c0cf4f0b13485bf8736f6f3cd3ca/update/Slate.apk"
+  "notes": "Radio pause works: it silences the radio and play brings the same station back.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/e3142482067573b57d43b7aab3e42d0978d396b2/update/Slate.apk"
 }
