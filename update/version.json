@@ -1,8 +1,8 @@
 {
-  "versionCode": 52,
-  "versionName": "3.9.9",
-  "sha256": "c927fc3edb7ef75adc0aad9e7c753d3f240ee48f7357a71d3fe7a4aece1ff12d",
+  "versionCode": 53,
+  "versionName": "3.9.10",
+  "sha256": "ff87c9cf05da5551d2aded2f2775b0250d0b341170d2f31900ca721a85c57762",
   "size": 1860409,
-  "notes": "Slate reopens by itself after an update. Wi-Fi gets a nudge to rejoin your hotspot if it's on but sitting idle, and Diagnostics shows Wi-Fi's state.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/6906632b240a934a7ab8bcabb70c36ef44835263/update/Slate.apk"
+  "notes": "The small gear for the other range shows N too when you're in neutral, instead of a dash.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/c825a19067c3b999e53d01f69b2987818f5583c1/update/Slate.apk"
 }
