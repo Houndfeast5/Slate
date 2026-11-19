@@ -1,8 +1,8 @@
 {
-  "versionCode": 53,
-  "versionName": "3.9.10",
-  "sha256": "ff87c9cf05da5551d2aded2f2775b0250d0b341170d2f31900ca721a85c57762",
+  "versionCode": 54,
+  "versionName": "3.9.11",
+  "sha256": "1fff9f5d4ef651048baca4c1082f388470b33c40bab15691abfb1e1de4acd9d3",
   "size": 1860409,
-  "notes": "The small gear for the other range shows N too when you're in neutral, instead of a dash.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/c825a19067c3b999e53d01f69b2987818f5583c1/update/Slate.apk"
+  "notes": "Short titles like a radio frequency stay put instead of hopping left and right. The play button shows Pause while the radio is playing.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/d2540097b09db8098f564ab36583465f83f7e089/update/Slate.apk"
 }
