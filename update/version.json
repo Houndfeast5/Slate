@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "3.9.2",
-  "sha256": "c7914a6e9d7dbcf210294362f698919517479c80ad5b8b265fc4594f51895d65",
+  "versionCode": 46,
+  "versionName": "3.9.3",
+  "sha256": "a5e088c54ec0e0ff47848394552f83d1784b4fea1c822e0fa10c94bfab83fe73",
   "size": 1860409,
-  "notes": "Updates now come straight from the Slate repository, so new versions arrive over Wi-Fi without a USB stick. Includes the Wi-Fi fix from 3.9.1."
+  "notes": "Slate now checks for updates every 5 minutes and the moment your hotspot connects, so new versions show up almost right away."
 }
