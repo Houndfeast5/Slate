@@ -1,8 +1,8 @@
 {
-  "versionCode": 54,
-  "versionName": "3.9.11",
-  "sha256": "1fff9f5d4ef651048baca4c1082f388470b33c40bab15691abfb1e1de4acd9d3",
-  "size": 1860409,
-  "notes": "Short titles like a radio frequency stay put instead of hopping left and right. The play button shows Pause while the radio is playing.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/d2540097b09db8098f564ab36583465f83f7e089/update/Slate.apk"
+  "versionCode": 55,
+  "versionName": "3.9.12",
+  "sha256": "2a02616152d06bbc771c70386e7dc67a2f3323fc23754161937f090845361ba5",
+  "size": 1876880,
+  "notes": "The Auto button shows the Android Auto logo. You can still use your own picture by putting it at Slate/Icons/auto.png on a USB stick.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/9cbdcf86efd5dc14060b603bf0c3e1395b8ab971/update/Slate.apk"
 }
