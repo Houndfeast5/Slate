@@ -1,8 +1,8 @@
 {
-  "versionCode": 56,
-  "versionName": "3.9.13",
-  "sha256": "19cf05faa7e35186c185c1b723869c3e365bb86bf312717eed11327bff1b38d9",
+  "versionCode": 58,
+  "versionName": "3.9.15",
+  "sha256": "9a2b1d528cb8e07405a9c4b765c92648f7e6689f36a015a598cbd40f12a8b1b6",
   "size": 1876880,
-  "notes": "The home screen's truck readings get the same loading treatment as the gauges page: a gliding bar in each spot until its reading arrives, then the number fades in.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/975cd57d00d25229b522f10ca15ddeff828b4fd5/update/Slate.apk"
+  "notes": "The RPM number shrinks slightly to fit next to both gears instead of getting cut off.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/ec0760a266b9c0cf4f0b13485bf8736f6f3cd3ca/update/Slate.apk"
 }
