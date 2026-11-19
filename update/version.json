@@ -1,8 +1,8 @@
 {
-  "versionCode": 51,
-  "versionName": "3.9.8",
-  "sha256": "2a0d30a18d5b7677a9da1bc25c4d1c06f7c4b60953cdd9509efb8163aca7c393",
+  "versionCode": 52,
+  "versionName": "3.9.9",
+  "sha256": "c927fc3edb7ef75adc0aad9e7c753d3f240ee48f7357a71d3fe7a4aece1ff12d",
   "size": 1860409,
-  "notes": "Check Now finds a new version the moment it's published, no more waiting on GitHub's cache.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/d1ab2a6319339b796cdefa8f06607768c2d439f6/update/Slate.apk"
+  "notes": "Slate reopens by itself after an update. Wi-Fi gets a nudge to rejoin your hotspot if it's on but sitting idle, and Diagnostics shows Wi-Fi's state.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/6906632b240a934a7ab8bcabb70c36ef44835263/update/Slate.apk"
 }
