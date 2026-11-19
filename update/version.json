@@ -1,8 +1,8 @@
 {
-  "versionCode": 60,
-  "versionName": "3.9.17",
-  "sha256": "29c315799b34d6aeb0f6630eaa1f0ef4e6c5d4e591842eea71a18bfe6c9cf448",
+  "versionCode": 61,
+  "versionName": "3.9.18",
+  "sha256": "20e8d54f132a4d148ce31a0e376004327ff0f91a66d3f9b68dd44eaee2781dd5",
   "size": 1885072,
-  "notes": "Radio: hold next or previous to seek to the next station. Tap the station name for a Stations sheet with your presets: tap to tune, hold to save, and a band button.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/edbaee8b21d0cfcf6653a1e1754a04b9e0ba01a4/update/Slate.apk"
+  "notes": "Tap the radio's cover to open your Stations. Saving a station to a preset now checks harder before saying it couldn't.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/f480e7184692c2953996d856f2c356fb3700758e/update/Slate.apk"
 }
