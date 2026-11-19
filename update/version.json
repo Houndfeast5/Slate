@@ -1,8 +1,8 @@
 {
-  "versionCode": 46,
-  "versionName": "3.9.3",
-  "sha256": "fe3015fa4d6cb8e32a88f1012b03e63c5fac5aed7a140f9542962e0409d7cf1d",
+  "versionCode": 48,
+  "versionName": "3.9.5",
+  "sha256": "871ceba13fd7d6ceb4bfb2be2f5c4227485bd0f482c139e4e3eb1bcfea2b3251",
   "size": 1860409,
-  "notes": "Slate now checks for updates every 5 minutes and the moment your hotspot connects, so new versions show up almost right away.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/bb238da4fc1a67f59924474e2bdfc6d8ddaf2c64/update/Slate.apk"
+  "notes": "Update checks no longer trust Android's connection status, which was wrongly saying offline. Slate also checks for an update every time you start the truck.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/213d6bcc6deb2411c4557ad84b32d38cd89cff63/update/Slate.apk"
 }
