@@ -1,8 +1,8 @@
 {
-  "versionCode": 64,
-  "versionName": "3.9.21",
-  "sha256": "21ec5202ea22d45eaf992c639c123de3f00322f52da9b7990cb91d878a492faa",
+  "versionCode": 65,
+  "versionName": "3.9.22",
+  "sha256": "af13f4fac722817404f17521326930a725503f59de64d087f1513d8398c68964",
   "size": 1889168,
-  "notes": "Stations keeps your saved stations itself, so saving always works. Tapping a tile tunes straight to that frequency. The band button and seek check that the radio really responded.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/7d8beaeee6ac65972701a33b75f0ad5239c01759/update/Slate.apk"
+  "notes": "Stations is one list of six for every band. AM stations switch the radio to AM by themselves, and an FM / AM switch replaces FM1 / FM2 / FM3.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/d38887c36afb598a773dbec3af7739394b5382d7/update/Slate.apk"
 }
