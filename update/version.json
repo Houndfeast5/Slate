@@ -1,8 +1,8 @@
 {
-  "versionCode": 61,
-  "versionName": "3.9.18",
-  "sha256": "20e8d54f132a4d148ce31a0e376004327ff0f91a66d3f9b68dd44eaee2781dd5",
+  "versionCode": 62,
+  "versionName": "3.9.19",
+  "sha256": "2616e80b2c9ce5bb0aedc5a66a5b5d3760e74c30272d91115421860a64bf8917",
   "size": 1885072,
-  "notes": "Tap the radio's cover to open your Stations. Saving a station to a preset now checks harder before saying it couldn't.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/f480e7184692c2953996d856f2c356fb3700758e/update/Slate.apk"
+  "notes": "Stations reads your presets correctly, so saving a station to a preset confirms properly.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/605ed06159a32c84e841885286d6ab38465f64d7/update/Slate.apk"
 }
