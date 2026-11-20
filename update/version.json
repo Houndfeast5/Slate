@@ -1,8 +1,8 @@
 {
-  "versionCode": 63,
-  "versionName": "3.9.20",
-  "sha256": "168ad817ffc382bcfb0374b31a31561db1c29d20ed4c4584b579b1771a82825a",
+  "versionCode": 64,
+  "versionName": "3.9.21",
+  "sha256": "21ec5202ea22d45eaf992c639c123de3f00322f52da9b7990cb91d878a492faa",
   "size": 1889168,
-  "notes": "Saving a station to a preset tries every way the radio might want it and remembers the one that works.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/bbcb4ef67024c3834dacc120cbcc0796b46a7739/update/Slate.apk"
+  "notes": "Stations keeps your saved stations itself, so saving always works. Tapping a tile tunes straight to that frequency. The band button and seek check that the radio really responded.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/7d8beaeee6ac65972701a33b75f0ad5239c01759/update/Slate.apk"
 }
