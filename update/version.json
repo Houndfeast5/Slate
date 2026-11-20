@@ -1,8 +1,8 @@
 {
-  "versionCode": 65,
-  "versionName": "3.9.22",
-  "sha256": "af13f4fac722817404f17521326930a725503f59de64d087f1513d8398c68964",
+  "versionCode": 66,
+  "versionName": "3.9.23",
+  "sha256": "86437e5a1d53d961273381e2a86e03aa8b40e08b3d14664afaf779cfc321daa9",
   "size": 1889168,
-  "notes": "Stations is one list of six for every band. AM stations switch the radio to AM by themselves, and an FM / AM switch replaces FM1 / FM2 / FM3.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/d38887c36afb598a773dbec3af7739394b5382d7/update/Slate.apk"
+  "notes": "Next and previous step through your Stations tiles. Stations and the radio card show the station's name and genre when it sends them. Empty tiles show how to fill them.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/3fafc0d9f948aba682bdcef2d09c991f1ff468dd/update/Slate.apk"
 }
