@@ -1,8 +1,8 @@
 {
-  "versionCode": 66,
-  "versionName": "3.9.23",
-  "sha256": "86437e5a1d53d961273381e2a86e03aa8b40e08b3d14664afaf779cfc321daa9",
+  "versionCode": 67,
+  "versionName": "3.9.24",
+  "sha256": "767df5e703ada3ba82bfd894a142265aadee2a7e86fc71ab0eafae56a064ec6b",
   "size": 1889168,
-  "notes": "Next and previous step through your Stations tiles. Stations and the radio card show the station's name and genre when it sends them. Empty tiles show how to fill them.",
-  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/3fafc0d9f948aba682bdcef2d09c991f1ff468dd/update/Slate.apk"
+  "notes": "Gauges page: bigger numbers, labels and captions, thicker range bars and tach, for easier reading at a glance.",
+  "apk": "https://raw.githubusercontent.com/Houndfeast5/Slate/3b9a156f12de71c00ecfb18207df0b5932c814be/update/Slate.apk"
 }
